@@ -24,4 +24,9 @@
       <initValue>''</initValue>
       <name>projectGid</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>taskGid</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
