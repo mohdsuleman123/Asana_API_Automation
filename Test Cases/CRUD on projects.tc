@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRUD on projects</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af96f48d-ce5b-4f6f-9d3b-92160539f303</testCaseGuid>
+</TestCaseEntity>
